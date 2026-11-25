@@ -1,0 +1,147 @@
+{
+  "card": "白雨的留灯人",
+  "updated": "2026-11-25",
+  "format": "webp-q82",
+  "budgetMB": 12,
+  "assets": [
+    {
+      "id": "sp_rag_fear",
+      "file": "assets/char/sp_rag_fear.webp",
+      "size": [
+        1152,
+        1728
+      ],
+      "kb": 34,
+      "state": "ch1_fear",
+      "source": "sp01_fear_00001_.png",
+      "seed": 20261200
+    },
+    {
+      "id": "sp_rag_blank",
+      "file": "assets/char/sp_rag_blank.webp",
+      "size": [
+        1152,
+        1728
+      ],
+      "kb": 37,
+      "state": "ch1_blank",
+      "source": "sp02_blank_00001_.png",
+      "seed": 20261200
+    },
+    {
+      "id": "sp_rag_teary",
+      "file": "assets/char/sp_rag_teary.webp",
+      "size": [
+        1152,
+        1728
+      ],
+      "kb": 35,
+      "state": "ch1_teary",
+      "source": "sp05_teary_00001_.png",
+      "seed": 20261200
+    },
+    {
+      "id": "sp_rag_soft",
+      "file": "assets/char/sp_rag_soft.webp",
+      "size": [
+        1152,
+        1728
+      ],
+      "kb": 32,
+      "state": "ch1_soft",
+      "source": "sp03_soft_00001_.png",
+      "seed": 20261200
+    },
+    {
+      "id": "h01_m_insert",
+      "file": "assets/h/h01_m_insert.webp",
+      "size": [
+        832,
+        1216
+      ],
+      "kb": 60,
+      "state": "h01_m_insert",
+      "source": "m1b_00001_.png",
+      "seed": 20261127
+    },
+    {
+      "id": "h02_c_insert",
+      "file": "assets/h/h02_c_insert.webp",
+      "size": [
+        832,
+        1216
+      ],
+      "kb": 49,
+      "state": "h02_c_insert",
+      "source": "cg_insert_00001_.png",
+      "seed": 20261128
+    },
+    {
+      "id": "h01_m_climax",
+      "file": "assets/h/h01_m_climax.webp",
+      "size": [
+        832,
+        1216
+      ],
+      "kb": 70,
+      "state": "h01_m_climax",
+      "source": "lock_m_climax_00001_.png",
+      "seed": 20261127
+    },
+    {
+      "id": "h01_m_after",
+      "file": "assets/h/h01_m_after.webp",
+      "size": [
+        832,
+        1216
+      ],
+      "kb": 63,
+      "state": "h01_m_after",
+      "source": "lock_m_after_00001_.png",
+      "seed": 20261127
+    },
+    {
+      "id": "h02_c_climax",
+      "file": "assets/h/h02_c_climax.webp",
+      "size": [
+        832,
+        1216
+      ],
+      "kb": 63,
+      "state": "h02_c_climax",
+      "source": "cg_climax_00001_.png",
+      "seed": 20261128
+    },
+    {
+      "id": "h02_c_after",
+      "file": "assets/h/h02_c_after.webp",
+      "size": [
+        832,
+        1216
+      ],
+      "kb": 58,
+      "state": "h02_c_after",
+      "source": "cg_after_00001_.png",
+      "seed": 20261128
+    }
+  ],
+  "totalKB": 501,
+  "missing": [
+    "ch3_shy",
+    "ch3_smile",
+    "ch3_worried",
+    "ch3_teary",
+    "ch4_warm",
+    "ch4_blush",
+    "ch5_sadsmile",
+    "ch6_happy",
+    "cg01_attic_meet",
+    "cg02_rain_hug",
+    "cg03_writing_name",
+    "cg04_collar_cut",
+    "cg05_empty_lamp",
+    "bg01_shop_rain",
+    "bg02_attic_night",
+    "bg03_porch_empty"
+  ]
+}
