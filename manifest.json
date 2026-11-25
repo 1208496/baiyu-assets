@@ -1,0 +1,147 @@
+{
+  "char": {
+    "liliwei/rag/fear": {
+      "file": "assets/char/liliwei/rag/fear.webp",
+      "source": "sp_rag_fear.webp",
+      "real": true
+    },
+    "liliwei/rag/blank": {
+      "file": "assets/char/liliwei/rag/blank.webp",
+      "source": "sp_rag_blank.webp",
+      "real": true
+    },
+    "liliwei/rag/teary": {
+      "file": "assets/char/liliwei/rag/teary.webp",
+      "source": "sp_rag_teary.webp",
+      "real": true
+    },
+    "liliwei/rag/soft": {
+      "file": "assets/char/liliwei/rag/soft.webp",
+      "source": "sp_rag_soft.webp",
+      "real": true
+    },
+    "liliwei/dress/teary": {
+      "file": "assets/char/liliwei/dress/teary.webp",
+      "source": "ch3_night_sacrifice.webp",
+      "real": false
+    },
+    "liliwei/dress/shy": {
+      "file": "assets/char/liliwei/dress/shy.webp",
+      "source": "ch3_porch_lamp.webp",
+      "real": false
+    },
+    "liliwei/dress/worried": {
+      "file": "assets/char/liliwei/dress/worried.webp",
+      "source": "ch4_angry_heartache.webp",
+      "real": false
+    },
+    "liliwei/dress/soft": {
+      "file": "assets/char/liliwei/dress/soft.webp",
+      "source": "ch4_herb_discovery.webp",
+      "real": false
+    },
+    "liliwei/free/warm": {
+      "file": "assets/char/liliwei/free/warm.webp",
+      "source": "ch5_bailiff_shield.webp",
+      "real": false
+    },
+    "liliwei/free/sadsmile": {
+      "file": "assets/char/liliwei/free/sadsmile.webp",
+      "source": "ch5_last_lamp.webp",
+      "real": false
+    },
+    "liliwei/free/blush": {
+      "file": "assets/char/liliwei/free/blush.webp",
+      "source": "ch5_midnight_choice.webp",
+      "real": false
+    },
+    "liliwei/free/happy": {
+      "file": "assets/char/liliwei/free/happy.webp",
+      "source": "ch6_dawn_awakening.webp",
+      "real": false
+    },
+    "liliwei/dress/smile": {
+      "file": "assets/char/liliwei/dress/smile.webp",
+      "source": "sp_dress_smile.webp",
+      "real": false
+    }
+  },
+  "other": [
+    "assets/h/h01_m_insert.webp",
+    "assets/h/h02_c_insert.webp",
+    "assets/ph/bg01_shop_rain.webp",
+    "assets/ph/bg02_attic_night.webp",
+    "assets/ph/bg03_porch_empty.webp",
+    "assets/ph/cg01_attic_meet.webp",
+    "assets/ph/cg02_rain_hug.webp",
+    "assets/ph/cg03_writing_name.webp",
+    "assets/ph/cg04_collar_cut.webp",
+    "assets/ph/cg05_empty_lamp.webp",
+    "assets/ph/ch1_attic_cold.webp",
+    "assets/ph/ch1_attic_lamp.webp",
+    "assets/ph/ch1_bandage.webp",
+    "assets/ph/ch1_fear.webp",
+    "assets/ph/ch1_lamp_return.webp",
+    "assets/ph/ch1_meal.webp",
+    "assets/ph/ch1_morning.webp",
+    "assets/ph/ch1_puppet.webp",
+    "assets/ph/ch1_sorting_herbs.webp",
+    "assets/ph/ch2_bitter_medicine.webp",
+    "assets/ph/ch2_first_wish.webp",
+    "assets/ph/ch2_rain_hug.webp",
+    "assets/ph/ch2_sorting_clumsy.webp",
+    "assets/ph/ch2_sweet_choice.webp",
+    "assets/ph/ch2_thunder_door.webp",
+    "assets/ph/ch3_night_sacrifice.webp",
+    "assets/ph/ch3_notice_shadow.webp",
+    "assets/ph/ch3_porch_lamp.webp",
+    "assets/ph/ch3_writing_name.webp",
+    "assets/ph/ch4_angry_heartache.webp",
+    "assets/ph/ch4_collar_cut.webp",
+    "assets/ph/ch4_first_kiss.webp",
+    "assets/ph/ch4_herb_discovery.webp",
+    "assets/ph/ch5_bailiff_shield.webp",
+    "assets/ph/ch5_last_lamp.webp",
+    "assets/ph/ch5_midnight_choice.webp",
+    "assets/ph/ch5_pillow_request.webp",
+    "assets/ph/ch5_tidy_labels.webp",
+    "assets/ph/ch6_dawn_awakening.webp",
+    "assets/ph/ch6_ledger_truth.webp",
+    "assets/ph/ch6_snow_reunion.webp",
+    "assets/ph/h01_m_after.webp",
+    "assets/ph/h01_m_climax.webp",
+    "assets/ph/h01_m_insert.webp",
+    "assets/ph/h02_c_after.webp",
+    "assets/ph/h02_c_climax.webp",
+    "assets/ph/h02_c_insert.webp",
+    "assets/ph/sp_dress_shy.webp",
+    "assets/ph/sp_dress_smile.webp",
+    "assets/ph/sp_dress_teary.webp",
+    "assets/ph/sp_dress_worried.webp",
+    "assets/ph/sp_free_blush.webp",
+    "assets/ph/sp_free_happy.webp",
+    "assets/ph/sp_free_sadsmile.webp",
+    "assets/ph/sp_free_warm.webp",
+    "assets/ph/sp_rag_blank.webp",
+    "assets/ph/sp_rag_fear.webp",
+    "assets/ph/sp_rag_soft.webp",
+    "assets/ph/sp_rag_teary.webp"
+  ],
+  "real": [
+    "liliwei/rag/fear",
+    "liliwei/rag/blank",
+    "liliwei/rag/teary",
+    "liliwei/rag/soft"
+  ],
+  "placeholder": [
+    "liliwei/dress/teary",
+    "liliwei/dress/shy",
+    "liliwei/dress/worried",
+    "liliwei/dress/soft",
+    "liliwei/free/warm",
+    "liliwei/free/sadsmile",
+    "liliwei/free/blush",
+    "liliwei/free/happy",
+    "liliwei/dress/smile"
+  ]
+}
