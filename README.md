@@ -7,14 +7,17 @@
 ```
 assets/
 ├─ char/liliana/{m|s}/{maid|shirt|knit|nude}.webp   角色立绘（m / s 为两种状态）
-├─ char/liliana/{m|s}/maid/skirt.webp               角色立绘（额外差分）
+├─ char/liliana/{m|s}/{maid|shirt|knit|nude}/       互动差分（head / breast / hip，maid 另有 skirt）
 ├─ h/{m|s}/{scene}_{1|2}.webp                       场景插图（每个场景 2 张，编号 1 / 2）
-└─ bg/{door|room|bedroom|kitchen|porch}.webp        场景背景，兜底 bg/default.webp
+└─ bg/{door|room|bedroom|kitchen|porch}.webp        场景背景（地点基准图）
+   bg/{room_night|bedroom_day|bedroom_mirror|bedroom_night|bedroom_morning|porch_dawn}.webp  场景背景（时段/场景变体）
+   bg/default.webp                                  兜底背景
 ```
 
 ## 规格
 
-- 尺寸 1248×1824，透明背景 WebP
+- 立绘 / 差分：1248×1824，透明背景 WebP
+- 背景：1280×720，16:9，WebP
 - 文件名全 ASCII，小写下划线
 - 角色外观与配色已定稿，具体规格见项目内配置，不在本仓库复述
 
